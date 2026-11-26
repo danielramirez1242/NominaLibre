@@ -1,0 +1,7 @@
+out/
+*.class
+*.db
+.vscode/
+
+build/
+nbproject/private/
